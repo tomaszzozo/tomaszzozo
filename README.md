@@ -1,4 +1,4 @@
 - 👋 Hi, I’m @tomaszzozo
-- 👀 I’m interested in game development and mobile app development
+- 👀 I’m interested in game development mobile app development and web development
 - 🌱 I’m currently learning ReactJS
 - 📫 How to reach me tomasz.wojtkiewicz@outlook.com
