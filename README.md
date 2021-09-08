@@ -1,4 +1,7 @@
-- 👋 Hi, I’m @tomaszzozo
-- 👀 I’m interested in game development mobile app development and web development
-- 🌱 I’m currently learning ReactJS
-- 📫 How to reach me tomasz.wojtkiewicz@outlook.com
+- 👋 Hi, I’m @tomaszzozo!
+- 💻 Here you will find my portfolio projects which I decided to share with the world (keep in mind that I have other projects which I decided not to put here).
+- 👀 I’m interested in game development, mobile app development and web development.
+- 🌱 I’m currently learning ReactJS by building my own online shop.
+- 👨‍💻 I'm currently working as an intern in Commerzbank in Łódź. I provide methods that testers will use.
+- ⚙️ I'm currently working with Java, Selenium and Gauge framework.
+- 📫 How to reach me: tomasz.wojtkiewicz@outlook.com.
